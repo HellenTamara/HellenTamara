@@ -6,7 +6,7 @@ I'm a self-proclaimed code wizard (in training, of course). As a front-end devel
 * 🌍  I'm based in Kumamoto, Japan
 * ✉️  You can contact me at [hellen.tamara@outlook.com](mailto:hellen.tamara@outlook.com)
 * 🧠  I'm learning Javascript
-* 👩‍💻 My portfolio (under construction): http://bit.ly/Hellen-Tamara
+* 👩‍💻 My portfolio (under construction): https://professional-portfolio-bice.vercel.app/index.html
 
 ### Skills
 
