@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hellen Naito
 ====================================================================================================================================
 
-I'm a self-proclaimed code wizard (in training, of course). As a front-end developer, I'm all about bringing designs to life. But when I'm not coding, you can find me gaming or solving puzzles. I speak fluent English and Portuguese (my mother tongue), and I know enough Japanese to order sushi, but don't expect a conversation. I'm always eager to learn something new and collaborate on exciting projects. So if you need a fellow developer to geek out with, or if you have a challenge that needs solving, let's chat!
+I focus on front-end development, turning designs into interactive digital experiences. But when I'm not coding, you can find me gaming or solving puzzles. Fluent in English and Portuguese (my native language), and with a basic grasp of Japanese, So if you need a fellow developer to geek out with, or if you have a challenge that needs solving, let's chat!
 
 * 🌍  I'm based in Kumamoto, Japan
 * ✉️  You can contact me at [hellen.tamara@outlook.com](mailto:hellen.tamara@outlook.com)
-* 🧠  I'm learning Javascript
+* 🧠  Currently enrolled in Le Wagon's Web Development Bootcamp
 * 👩‍💻 My portfolio (under construction): https://professional-portfolio-bice.vercel.app/index.html
 
 ### Skills
