@@ -6,7 +6,7 @@ I focus on front-end development, turning designs into interactive digital exper
 * 🌍  I'm based in Kumamoto, Japan
 * ✉️  You can contact me at [hellen.tamara@outlook.com](mailto:hellen.tamara@outlook.com)
 * 🧠  Currently enrolled in Le Wagon's Web Development Bootcamp
-* 👩‍💻 My portfolio (under construction): https://professional-portfolio-bice.vercel.app/index.html
+* 👩‍💻 My portfolio (under construction): <a href="https://hellentamara.github.io/HellenTamara-Portfolio/" target="_blank">Portfolio</a>
 
 ### Skills
 
